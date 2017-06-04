@@ -4,6 +4,15 @@ Miwok App
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
+My app
+===================================
+
+I have made my own app to learn the ancient Miwok language with the help of Udacity's *Android Basics: Multiscreen Apps by Google.* This online course can be found [here](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839).
+
+You can download and install my app via the following link on the Google Play Store.
+
+<a href='https://play.google.com/store/apps/details?id=com.thetranslator.android.miwok&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 Pre-requisites
 --------------
 
